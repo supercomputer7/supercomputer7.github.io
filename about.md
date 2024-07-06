@@ -9,4 +9,4 @@ I mainly contribute to the [SerenityOS](https://github.com/SerenityOS/serenity) 
 
 ### Contact me
 
-I'm taking part of the SerenityOS discord server, so you may find me there under the same name (`supercomputer7`).
+I'm participating in the SerenityOS discord server, so you may find me there under the same name (`supercomputer7`).
